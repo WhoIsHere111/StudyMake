@@ -1,2 +1,15 @@
-!Kazino-Royal.cpp
-Kazino-Royal*
+# Исполняемые файлы сборки
+kazino
+kazino-dbg
+
+# Объектные файлы
+*.o
+
+# ВРеменные файлы редакторов
+*~
+*.swp
+*.bak
+
+# Файлы IDE 
+.vscode/
+.idea/
