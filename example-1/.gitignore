@@ -1,2 +1,16 @@
+# Объектные файлы
+*.o
+*.obj
+
+# Исполняемые
+*.out
+*.exe
 hello
 hello-dbg
+main
+a.out
+
+# Временные
+*~
+*.swp
+*.log
